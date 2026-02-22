@@ -45,11 +45,12 @@ We welcome contributions to the project that:
 Please follow these steps to have your contribution considered by the maintainers:
 
 1. Fork and clone this repository.
-2. Create a new branch: `git checkout -b my-branch-name`.
-3. Make your changes and verify that the checks are still passing.
-4. Push to your fork and submit a pull request accordingly to [the guidelines](.github/pull_request_template.md).
-5. Sign a CLA (if present).
-6. Wait till your changes are reviewed and merged. 🥳
+2. Create an issue
+3. Create a new branch: `git checkout -b feature/#issue/my-branch-name`.
+4. Make your changes and verify that the checks are still passing.
+5. Push to your fork and submit a pull request accordingly to [the guidelines](.github/pull_request_template.md).
+6. Sign a CLA (if present).
+7. Wait till your changes are reviewed and merged. 🥳
 
 You must meet the above requirements to have your pull request reviewed. The maintainers may ask you to complete additional work, tests, or other changes before accepting and merging your pull request. 
 
