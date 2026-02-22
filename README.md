@@ -1,5 +1,5 @@
-# Calibre’s templates and governance policies
-This repository holds community health files and templates for Calibre’s open source and private repositories.
+# templates and governance policies
+This repository holds community health files and templates for System-Systems open source and private repositories.
 
 ## Table of Contents
 
