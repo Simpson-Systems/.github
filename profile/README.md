@@ -1,18 +1,89 @@
-## 👋🏻 Hello there
-We are ♠️ [Calibre](https://calibreapp.com/): an (intentionally) small company building a **web performance platform to help create faster, more equitable internet**. 
+# Simpson Systems
 
-Our team has a long history of community organising, from open source contributions and facilitation (for example, projects like Ruby on Rails, Bower and Node.js) to organising dozens of international events (such as JSConf and CSSConf). 
+**Simpson Systems** is an engineering-focused organization dedicated to building reliable software systems, development tooling, and infrastructure-first projects.
 
-We feel at home when helping people, and GitHub is one of the places where we do it.
+The goal of this organization is simple:
 
-### 💓 Giving back to the ecosystem
-Because we believe in paying it forward, we actively work on building tools to benefit people and teams interested in improving web performance and user experience. Here are our favourite projects:
+> Make disciplined engineering practices easy to follow — even for solo developers and small teams.
 
-* **[Calibre CLI](https://github.com/calibreapp/cli):** a command-line interface and Node.js API for Calibre data and actions.
-* **[Image Actions](https://github.com/calibreapp/image-actions/):** a GitHub Action that automatically optimises your images in pull requests.
-* **[React Live Chat Loader](https://github.com/calibreapp/react-live-chat-loader/):** an npm module that mitigates the negative performance impact of chat tools.
+We focus on turning good ideas from software engineering culture (CI, code review, traceability, automation, reproducibility) into practical tools and real projects.
 
-We also contribute to existing tools, such as [Google Lighthouse](https://github.com/GoogleChrome/lighthouse) or [Chrome HAR](https://github.com/sitespeedio/chrome-har). Beyond GitHub, we run 📬 [a fortnightly page speed newsletter](https://perf.email/) and regularly publish 📝 [high-quality content about speed](https://calibreapp.com/blog/category/web-performance).
+---
 
-### 🙌🏻 Want to join us?
-We’re currently hiring developers—if you value a supportive work environment with interesting technical challenges and code ownership, check out 📢 [our current open positions](https://calibreapp.com/careers) for more details! We’d love to get to know you.
+## What We Build
+
+### Developer Tooling
+
+Tools that improve day-to-day engineering workflow and remove friction from development:
+
+* Git workflow automation
+* repository bootstrapping
+* commit and pull-request structure enforcement
+* project traceability tooling
+
+### Systems Programming
+
+Projects that deepen understanding of how software actually runs:
+
+* operating-system and kernel experiments
+* memory management research
+* virtualization and low-level runtime environments
+
+### Infrastructure & Cloud
+
+Infrastructure that behaves predictably and can be reproduced anywhere:
+
+* CI/CD pipelines
+* local cloud environments
+* reproducible dev environments
+* service orchestration
+
+---
+
+## Engineering Philosophy
+
+We care about **process as much as code**.
+
+A working program is good.
+A working program that can be understood, tested, reproduced, and extended by someone else is engineering.
+
+Core principles:
+
+* Every change is traceable
+* Automation over manual steps
+* Reproducible environments
+* Small, reviewable changes
+* Documentation lives with the code
+* Tools should teach, not just enforce
+
+---
+
+## Why This Exists
+
+Most developers learn languages and frameworks, but not *how professional engineering actually works*.
+
+Simpson Systems exists to bridge that gap:
+taking practices used by mature engineering teams and making them accessible to individual developers.
+
+The organization serves as both:
+
+* a place to build real software
+* a living reference of modern development workflow
+
+---
+
+## Getting Started
+
+Each repository is self-contained and documents:
+
+* how to build it
+* how to run it
+* how to contribute
+
+If you're exploring the projects, start with the repository README and the `docs/` directory where available.
+
+---
+
+## Contact
+
+Discussions and ideas are welcome through repository issues and discussions.
