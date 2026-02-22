@@ -1,5 +1,5 @@
 # templates and governance policies
-This repository holds community health files and templates for System-Systems open source and private repositories.
+This repository holds community health files and templates for Simpson-Systems open source and private repositories.
 
 ## Table of Contents
 
