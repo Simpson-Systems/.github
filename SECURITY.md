@@ -1,6 +1,6 @@
 # Security
 
-At Calibre, we believe security and privacy are critically important. To ensure we provide the best possible protection, we ask for responsible disclosure of vulnerabilities in our projects. Thank you for participating and helping us keep Calibre safe!
+At Simpson-Systems, we believe security and privacy are critically important. To ensure we provide the best possible protection, we ask for responsible disclosure of vulnerabilities in our projects. Thank you for participating and helping us keep Calibre safe!
 
 While at this point, we don’t have a bug bounty program, we will make sure that every report is evaluated and addressed.
 
